@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2024-11-15">
+    <shop>
+        <name>Компьютерные услуги в Саратове</name>
+        <company>Виталий Компьютерный Мастер</company>
+        <url>https://sborkakomputerov.ru</url>
+        <currencies>
+            <currency id="RUR" rate="1"/>
+        </currencies>
+        <categories>
+            <category id="1">Ремонт</category>
+            <category id="2">Настройка</category>
+            <category id="3">Сборка</category>
+            <category id="4">Оптимизация</category>
+            <category id="5">Моноблоки</category>
+        </categories>
+        <offers>
+            <offer id="1" available="true">
+                <url>https://sborkakomputerov.ru</url>
+                <price>500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <name>Ремонт компьютеров</name>
+                <description>Профессиональный ремонт компьютеров в Саратове. Быстрая диагностика и устранение неисправностей. Гарантия качества и бесплатный выезд мастера.</description>
+            </offer>
+            <offer id="2" available="true">
+                <url>https://sborkakomputerov.ru</url>
+                <price>750</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <name>Ремонт ноутбуков</name>
+                <description>Ремонт ноутбуков всех моделей. Замена экрана, клавиатуры, устранение перегрева, восстановление системы. Быстро и качественно.</description>
+            </offer>
+            <offer id="3" available="true">
+                <url>https://sborkakomputerov.ru</url>
+                <price>900</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <name>Ремонт моноблоков</name>
+                <description>Профессиональный ремонт моноблоков с заменой комплектующих, настройкой системы и устранением неисправностей.</description>
+            </offer>
+            <offer id="4" available="true">
+                <url>https://sborkakomputerov.ru</url>
+                <price>600</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <name>Замена термопасты</name>
+                <description>Замена термопасты для снижения температуры процессора и улучшения работы системы охлаждения. Услуга доступна для ПК и ноутбуков.</description>
+            </offer>
+            <offer id="5" available="true">
+                <url>https://sborkakomputerov.ru</url>
+                <price>450</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <name>Установка Windows</name>
+                <description>Установка и настройка операционной системы Windows. Быстрая оптимизация и установка драйверов.</description>
+            </offer>
+            <offer id="6" available="true">
+                <url>https://sborkakomputerov.ru</url>
+                <price>300</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <name>Настройка BIOS</name>
+                <description>Настройка параметров BIOS для оптимальной работы компьютера. Включает установку приоритета загрузки и обновление прошивки.</description>
+            </offer>
+            <offer id="7" available="true">
+                <url>https://sborkakomputerov.ru</url>
+                <price>990</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <name>Настройка роутера</name>
+                <description>Подключение и настройка роутера для стабильной работы интернета. Включает настройку безопасности и оптимизацию сигнала Wi-Fi.</description>
+            </offer>
+            <offer id="8" available="true">
+                <url>https://sborkakomputerov.ru</url>
+                <price>400</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <name>Установка антивируса</name>
+                <description>Установка и настройка антивирусного ПО для защиты от вирусов, троянов и других угроз. Включает обновление баз данных.</description>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
